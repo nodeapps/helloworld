@@ -1,8 +1,8 @@
 {
   "name": "helloworld",
   "scripts": {
-    "start": "server.js"
+    "start": "./bin/server.js"
   },
-  "main" : "./server.js",
+  "main" : "./bin/server.js",
   "version": "0.0.0"
 }
