@@ -1,5 +1,5 @@
 {
-  "name": "hellonode",
+  "name": "helloworld",
   "scripts": {
     "start": "server.js"
   },
