@@ -3,6 +3,5 @@
   "scripts": {
     "start": "./bin/server.js"
   },
-  "main" : "./bin/server.js",
   "version": "0.0.0"
 }
