@@ -1,7 +1,8 @@
 {
-  "name": "helloworld",
+  "name": "nodeapps-helloworld",
+  "author": "Nodejitsu Inc. <support@nodejitsu.com>",
+  "version": "0.1.0",
   "scripts": {
-    "start": "./bin/server.js"
-  },
-  "version": "0.0.0"
+    "start": "./bin/server"
+  }
 }
