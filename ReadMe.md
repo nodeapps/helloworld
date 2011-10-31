@@ -3,6 +3,8 @@
 
 # Installation
 
+    mkdir myapp
+    cd myapp/
     jitsu install helloworld
 
 *If you do not have `jitsu` installed you can install it via `npm install jitsu -g`*
@@ -12,14 +14,12 @@
 
 ### Starting helloworld locally
 
-    cd helloworld/
     node bin/server
 
 *Now you can visit http://localhost:3000 to view your application*
 
 ### Deploy helloworld to nodejitsu
 
-    cd helloworld/
     jitsu deploy
 
 *You will now be prompted for a `subdomain` to deploy your application on*
