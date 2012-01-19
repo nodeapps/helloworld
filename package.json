@@ -1,9 +1,44 @@
 {
   "name": "nodeapps-helloworld",
-  "author": "Nodejitsu Inc. <support@nodejitsu.com>",
   "version": "0.1.0",
+  "author": "Nodejitsu Inc. <support@nodejitsu.com>",
+  "description": "a very basic node.js helloworld application",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodeapps/helloworld.git"
+  },
+  "keywords": [
+    "nodeapps",
+    "helloworld"
+  ],
+  "homepage": "http://nodeapps.github.com/helloworld",
   "scripts": {
     "start": "./bin/server"
   },
+  "contributors": [
+    {
+      "name": "Marak Squires",
+      "email": "marak.squires@gmail.com"
+    },
+    {
+      "name": "Joshua Holbrook",
+      "email": "josh.holbrook@gmail.com"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.4"
+  },
+  "bugs": {
+    "url": "https://github.com/nodeapps/helloworld/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nodeapps/helloworld/raw/master/LICENSE"
+    }
+  ],
   "analyze": false
 }
