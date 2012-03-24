@@ -1,6 +1,6 @@
 {
   "name": "nodeapps-helloworld",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Nodejitsu Inc. <support@nodejitsu.com>",
   "description": "a very basic node.js helloworld application",
   "main": "",
@@ -14,7 +14,7 @@
   ],
   "homepage": "http://nodeapps.github.com/helloworld",
   "scripts": {
-    "start": "./bin/server"
+    "start": "node ./bin/server"
   },
   "contributors": [
     {
