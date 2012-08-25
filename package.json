@@ -1,8 +1,8 @@
 {
   "name": "nodeapps-helloworld",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Nodejitsu Inc. <support@nodejitsu.com>",
-  "description": "a very basic node.js helloworld application",
+  "description": "A very basic node.js helloworld application",
   "main": "",
   "repository": {
     "type": "git",
@@ -24,6 +24,10 @@
     {
       "name": "Joshua Holbrook",
       "email": "josh.holbrook@gmail.com"
+    },
+    {
+      "name": "Farrin Reid",
+      "email": "blakmatrix@gmail.com"
     }
   ],
   "dependencies": {},
