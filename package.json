@@ -1,6 +1,6 @@
 {
   "name": "nodeapps-helloworld",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "Nodejitsu Inc. <support@nodejitsu.com>",
   "description": "A very basic node.js helloworld application",
   "main": "",
